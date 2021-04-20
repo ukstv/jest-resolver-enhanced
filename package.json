@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Resolver for Jest: use Webpack enhanced-resolver by default, with fallback to Jest resolver",
   "main": "index.js",
+  "files": ["index.js"],
   "author": "Sergey Ukustov <sergey@ukstv.me>",
   "license": "(MIT OR Apache-2.0)",
   "dependencies": {
