@@ -1,15 +1,15 @@
 lockfileVersion: 5.3
 
 specifiers:
-  enhanced-resolve: ^5.8.0
+  enhanced-resolve: ^5.8.2
 
 dependencies:
-  enhanced-resolve: 5.8.0
+  enhanced-resolve: 5.8.2
 
 packages:
 
-  /enhanced-resolve/5.8.0:
-    resolution: {integrity: sha512-Sl3KRpJA8OpprrtaIswVki3cWPiPKxXuFxJXBp+zNb6s6VwNWwFRUdtmzd2ReUut8n+sCPx7QCtQ7w5wfJhSgQ==}
+  /enhanced-resolve/5.8.2:
+    resolution: {integrity: sha512-F27oB3WuHDzvR2DOGNTaYy0D5o0cnrv8TeI482VM4kYgQd/FT9lUQwuNsJ0oOHtBUq7eiW5ytqzp7nBFknL+GA==}
     engines: {node: '>=10.13.0'}
     dependencies:
       graceful-fs: 4.2.6
